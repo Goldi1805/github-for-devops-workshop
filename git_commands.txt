@@ -10,3 +10,7 @@ git status
 git restore testing.py
 clear
 git status
+
+
+
+This is some new changes
