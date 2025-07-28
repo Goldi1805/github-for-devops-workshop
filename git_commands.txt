@@ -1,0 +1,12 @@
+git init
+git status
+clear
+git add .
+git commit -m "added text file"
+git status
+rm testing.py
+ls
+git status
+git restore testing.py
+clear
+git status
