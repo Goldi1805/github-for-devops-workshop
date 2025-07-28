@@ -17,3 +17,4 @@ git remote set-url origin https://PAT@github.com/Goldi1805/github-for-devops-wor
 git remote -v
 git push origin master
 git status
+clear
