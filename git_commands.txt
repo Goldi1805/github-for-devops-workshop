@@ -18,3 +18,5 @@ git remote -v
 git push origin master
 git status
 clear
+
+Thanks
