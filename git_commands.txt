@@ -10,11 +10,10 @@ git status
 git restore testing.py
 clear
 git status
-
-
-
-
-
-
-
-Hello
+git remote -v
+git remote add origin https://github.com/Goldi1805/github-for-devops-workshop.git
+git remote -v
+git remote set-url origin https://PAT@github.com/Goldi1805/github-for-devops-workshop.git
+git remote -v
+git push origin master
+git status
