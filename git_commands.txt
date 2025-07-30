@@ -16,4 +16,14 @@ git remote -v
 git remote set-url origin https://PAT@github.com/Goldi1805/github-for-devops-workshop.git
 git remote -v
 git push origin master
+git branch dev
 git status
+git add this_is_from_dev.txt
+git status
+git commit -m "added dev.txt"
+git status
+git switch dev
+ls
+git status
+git push origin dev
+git log --oneline
